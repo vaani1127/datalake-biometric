@@ -4,9 +4,10 @@
 .claude
 # XDE
 .expo/
-submissionMain.html
+submission.html
 # VSCode
 .vscode/
+images/
 jsconfig.json
 
 # Xcode
